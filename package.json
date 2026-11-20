@@ -6,10 +6,13 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "devDependencies": {  
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
     "vite": "^8.3.8"
   },
-  "dependencies": {   
-    "animejs": "^4.5.0"
-  }  
+  "dependencies": {
+    "animejs": "^4.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
 }
